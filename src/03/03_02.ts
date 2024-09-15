@@ -70,7 +70,7 @@ export const CreateGreationgMessage = (city: CityType) => {
 
 
 
-
+ 
 
 
 
